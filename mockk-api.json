@@ -9,6 +9,7 @@
             "status":"Rent",
             "location":"Gaza",
             "room": 5,
+            "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0Mzc0NDd8MHwxfHNlYXJjaHw1fHxob3VzZXxlbnwwfHx8fDE2OTI5NzM1MzR8MA&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
             
             
           },
@@ -18,10 +19,12 @@
             "title": "villa In luis Park",
             "price": 1200,
             "bathroom": 2,
-            "description":"Panoramic ocean and whitewater views from this estate property located in the only luxury single-family home gated community in La Jolla. Montoro is an exclusive gated community of custom built homes with elevated white water views overlooking the La Jolla Shores. Highly upgraded and professionally designed modern 6 bedroom and 7 bath home is located a short stroll from the world class beaches of La Jolla",
+            "description":"",
             "status":"Rent",
             "location":"Gaza",
             "room": 4,
+            "image": "https://images.unsplash.com/photo-1448630360428-65456885c650?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0Mzc0NDd8MHwxfHNlYXJjaHwyM3x8aG91c2V8ZW58MHx8fHwxNjkyOTczNTM0fDA&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
+
           },
 
 
@@ -35,6 +38,8 @@
             "status":"Rent",
             "location":"Gaza",
             "room": 4,
+            "image": "https://images.unsplash.com/photo-1448630360428-65456885c650?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0Mzc0NDd8MHwxfHNlYXJjaHwyM3x8aG91c2V8ZW58MHx8fHwxNjkyOTczNTM0fDA&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
+
 
           },
 
@@ -49,6 +54,8 @@
             "status":"Rent",
             "location":"Gaza",
             "room": 3,
+            "image": "https://plus.unsplash.com/premium_photo-1689609950112-d66095626efb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0Mzc0NDd8MHwxfHNlYXJjaHw3M3x8aG91c2V8ZW58MHx8fHwxNjkyOTc0ODMxfDA&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
+
           },
           {
             "id":5,
@@ -59,6 +66,8 @@
             "status":"Rent",
             "location":"Gaza",
             "room": 3,
+            "image": "https://images.unsplash.com/photo-1599149687740-6c9f9cb8bda8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0Mzc0NDd8MHwxfHNlYXJjaHwyNDZ8fGhvdXNlfGVufDB8fHx8MTY5MjkxNDc3Nnww&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
+
           },
           {
             "id":6,
@@ -69,6 +78,8 @@
             "status":"Rent",
             "location":"Gaza",
             "room": 3,
+            "image": "https://images.unsplash.com/photo-1602159222267-a2274c936b9f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0Mzc0NDd8MHwxfHNlYXJjaHwxNTl8fGhvdXNlfGVufDB8fHx8MTY5MjkwMTc0MXww&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
+
           }
 
 
