@@ -1,0 +1,78 @@
+{
+    "house":[
+        {
+            "id":1,
+            "title": "Luxury & Modern   ",
+            "price": 500,
+            "bathroom": 2,
+            "description":"",
+            "status":"Rent",
+            "location":"Gaza",
+            "room": 5,
+            
+            
+          },
+
+          {
+            "id":2,
+            "title": "villa In luis Park",
+            "price": 1200,
+            "bathroom": 2,
+            "description":"Panoramic ocean and whitewater views from this estate property located in the only luxury single-family home gated community in La Jolla. Montoro is an exclusive gated community of custom built homes with elevated white water views overlooking the La Jolla Shores. Highly upgraded and professionally designed modern 6 bedroom and 7 bath home is located a short stroll from the world class beaches of La Jolla",
+            "status":"Rent",
+            "location":"Gaza",
+            "room": 4,
+          },
+
+
+          {
+            "id":3,
+            "title": "Condo For Sale ",
+            "price": 1000,
+            "bathroom": 2,
+            "description":"Panoramic ocean and whitewater views from this estate property located in the only luxury single-family home gated community in La Jolla. Montoro is an exclusive gated community of custom built homes with elevated white water views overlooking the La Jolla Shores. Highly upgraded and professionally designed modern 6 bedroom and 7 bath home is located a short stroll from the world class beaches of La Jolla",
+            "type":"Apartment",
+            "status":"Rent",
+            "location":"Gaza",
+            "room": 4,
+
+          },
+
+
+          {
+            "id":4,
+            "title": "South Sun House   ",
+            "price": 800,
+            "bathroom": 2,
+            "description":"Panoramic ocean and whitewater views from this estate property located in the only luxury single-family home gated community in La Jolla. Montoro is an exclusive gated community of custom built homes with elevated white water views overlooking the La Jolla Shores. Highly upgraded and professionally designed modern 6 bedroom and 7 bath home is located a short stroll from the world class beaches of La Jolla",
+            "type":"Apartment",
+            "status":"Rent",
+            "location":"Gaza",
+            "room": 3,
+          },
+          {
+            "id":5,
+            "title": "Park House  ",
+            "price": 600,
+            "bathroom": 2,
+            "description":"Panoramic ocean and whitewater views from this estate property located in the only luxury single-family home gated community in La Jolla. Montoro is an exclusive gated community of custom built homes with elevated white water views overlooking the La Jolla Shores. Highly upgraded and professionally designed modern 6 bedroom and 7 bath home is located a short stroll from the world class beaches of La Jolla",
+            "status":"Rent",
+            "location":"Gaza",
+            "room": 3,
+          },
+          {
+            "id":6,
+            "title": "Wooden House ",
+            "price": 500,
+            "bathroom": 2,
+            "description":"Panoramic ocean and whitewater views from this estate property located in the only luxury single-family home gated community in La Jolla. Montoro is an exclusive gated community of custom built homes with elevated white water views overlooking the La Jolla Shores. Highly upgraded and professionally designed modern 6 bedroom and 7 bath home is located a short stroll from the world class beaches of La Jolla",
+            "status":"Rent",
+            "location":"Gaza",
+            "room": 3,
+          }
+
+
+
+
+    ]
+}
